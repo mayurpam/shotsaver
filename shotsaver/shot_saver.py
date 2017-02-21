@@ -9,7 +9,7 @@ import shot as mod_shot
 reload(mod_shot)
 
 # root path of the episode directory
-ROOT_PATH = r'E:/mayur/brownbag/PipelineTDTest-master/PipelineTDTest-master/episodes'
+ROOT_PATH = r'E:/project/episodes'
 
 
 def maya_main_window():
