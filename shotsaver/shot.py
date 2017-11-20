@@ -3,7 +3,7 @@ import re
 import pymel.core as pm
 
 SHOT_NAME_REGX = r"episode\d{3}_shot\d{3}_v\d+"
-
+"ADadsadsad"
 class SHOT():
     def __init__(self, root_path, episode=None, shot=None):
         '''
